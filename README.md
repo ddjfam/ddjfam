@@ -17,6 +17,9 @@ I build products and systems at the intersection of AI/ML, workflow automation, 
 ### [AI Risk Product Case Study](https://github.com/ddjfam/ai-risk-product-case-study)
 This repository showcases how I approach AI product strategy, requirements, prioritization, and roadmap decisions for enterprise risk-focused products.
 
+### [Agentic AI Automation Playbook](https://github.com/ddjfam/agentic-ai-automation-playbook)
+This repository showcases agent design, evaluation, orchestration, and low-code automation use cases across enterprise and cross-platform environments.
+
 ### [ServiceNow Workflow Automation](https://github.com/ddjfam/servicenow-workflow-automation)
 This repository highlights workflow automation and product ownership artifacts, including requirements, user stories, process improvements, and delivery examples.
 
