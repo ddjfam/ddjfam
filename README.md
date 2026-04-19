@@ -10,14 +10,14 @@ AI Product Manager, Product Owner, and Process Engineer focused on enterprise AI
 - Human-centered design for complex enterprise workflows
 
 ## Featured work
-### AI Risk Product Case Study
-A portfolio case study showing how I approach product vision, requirements, user needs, roadmap tradeoffs, and metrics for AI-enabled risk workflows.
+ai-risk-product-case-study
+This repository showcases how I approach AI product strategy, requirements, prioritization, and roadmap decisions for enterprise risk-focused products.
 
 ### Workflow Automation / ServiceNow Portfolio
-Examples of workflow redesign, product requirements, user stories, acceptance criteria, and delivery artifacts for enterprise automation.
+This repository highlights workflow automation and product ownership artifacts, including requirements, user stories, process improvements, and delivery examples.
 
 ### Process Engineering Toolkit
-Process maps, journey maps, root-cause analysis, controls thinking, and improvement frameworks used in large-scale transformation work.
+This repository contains practical process engineering tools and examples, including process maps, analysis methods, controls thinking, and continuous improvement frameworks.
 
 ## Background
 Experience across banking, insurance, consulting, and the U.S. Air Force in AI/ML risk modeling, product strategy, workflow automation, and process improvement.
