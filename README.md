@@ -2,6 +2,9 @@
 
 AI Product Manager | Product Owner | Process Engineer
 
+[Resume] (assets/Christopher_Cole_Resume.pdf) |
+[LinkedIn] (https://www.linkedin.com/in/christopher-d-cole/)
+
 I build products and systems at the intersection of AI/ML, workflow automation, product strategy, and process improvement. My background spans banking, insurance, consulting, and military operations, with experience leading enterprise initiatives involving AI risk workflows, ServiceNow automation, operational redesign, and stakeholder-driven delivery.
 
 ## What I Do
