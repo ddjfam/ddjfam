@@ -1,46 +1,45 @@
-# Christopher Cole
+# Christopher D. Cole
 
-AI Product Manager | Product Owner | Process Engineer
+**Enterprise Business Transformation | Reengineering CoE | Operational Excellence | AI & Workflow Enablement**
 
-[Resume] (https://github.com/ddjfam/assets-Christopher_Cole_Resume/blob/main/Christopher_D_Cole_Resume.pdf) |
+Wells Fargo VP / Product Manager in Corporate Risk. Lean Six Sigma Master Black Belt. Experience across **Wells Fargo, USAA and Booz Allen Hamilton**, supported by a 24-year U.S. Air Force career.
 
-[LinkedIn] (https://www.linkedin.com/in/christopher-d-cole/)
+I make complex operations simpler, faster and better controlled. My work connects business problems to process redesign, technology delivery, adoption and measurable results. I build the standards and capabilities that let teams repeat that work across an enterprise.
 
-I build products and systems at the intersection of AI/ML, workflow automation, product strategy, and process improvement. My background spans banking, insurance, consulting, and military operations, with experience leading enterprise initiatives involving AI risk workflows, ServiceNow automation, operational redesign, and stakeholder-driven delivery.
+[Resume](https://github.com/ddjfam/assets-Christopher_Cole_Resume/blob/main/Christopher_D_Cole_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/christopher-d-cole/) | San Antonio, Texas
 
-## What I Do
+## Selected transformation experience
 
-- AI/ML product strategy and roadmap development
-- Product ownership, backlog prioritization, and requirements definition
-- ServiceNow and digital workflow automation
-- Process redesign, KPI/KRI thinking, and Lean Six Sigma improvement
-- Human-centered design for complex enterprise workflows
+| Organization | My contribution | Scale / reported outcome |
+|---|---|---|
+| **USAA** | Reengineered IT asset processes and aligned business, risk and technology partners | **25 processes / 600+ steps; 35% productivity improvement; 33 regions** |
+| **Wells Fargo** | Served as Group Process Architect and built BPMN training for a repeatable modeling practice | **120 RCSA service models delivered** |
+| **Wells Fargo** | Helped establish a four-person AI Enablement team, intake and prioritization | **10K+ employees / 21 global Corporate Risk teams; 20 major opportunities identified by the team** |
+| **Booz Allen Hamilton** | Led structured discovery, root-cause analysis and cross-functional alignment | **18 sessions; 62 process gaps closed across six initiatives** |
 
-## Featured Portfolio Repositories
+These figures describe separate engagements. [Case details and measurement boundaries](https://github.com/ddjfam/process-engineering-playbook/blob/main/evidence-and-measurement.md) distinguish achieved outcomes, scope, deliverables and projections.
 
-### [AI Risk Product Case Study](https://github.com/ddjfam/ai-risk-product-case-study)
-This repository showcases how I approach AI product strategy, requirements, prioritization, and roadmap decisions for enterprise risk-focused products.
+## Start here
 
-### [Agentic AI Automation Playbook](https://github.com/ddjfam/agentic-ai-automation-playbook)
-This repository showcases agent design, evaluation, orchestration, and low-code automation use cases across enterprise and cross-platform environments.
+1. **[Enterprise Reengineering & CoE Playbook](https://github.com/ddjfam/process-engineering-playbook)** — transformation cases, a CoE charter, decision rights, a 90-day launch plan and benefits discipline.
+2. **[Enterprise AI Enablement & Automation](https://github.com/ddjfam/agentic-ai-automation-playbook)** — enterprise intake, opportunity prioritization and hands-on evidence-readiness prototyping.
+3. **[Workflow Redesign & ServiceNow Enablement](https://github.com/ddjfam/servicenow-workflow-automation)** — process-to-requirements translation, low-code/RPA decisions, exception routing and controls by design.
+4. **[Enterprise Risk Transformation](https://github.com/ddjfam/ai-risk-product-case-study)** — control analytics, executive decisions, roadmap governance and risk-aware delivery.
 
-### [ServiceNow Workflow Automation](https://github.com/ddjfam/servicenow-workflow-automation)
-This repository highlights workflow automation and product ownership artifacts, including requirements, user stories, process improvements, and delivery examples.
+## How I lead
 
-### [Process Engineering Playbook](https://github.com/ddjfam/process-engineering-playbook)
-This repository contains practical process engineering tools and examples, including process maps, analysis methods, controls thinking, and continuous improvement frameworks.
+- **Size the problem:** connect volume, rework, delays and customer pain to a defensible baseline.
+- **Align the enterprise:** clarify decision rights and resolve differences across functions and locations.
+- **Redesign before automating:** remove waste, simplify handoffs and build controls into the future state.
+- **Build repeatable capability:** use shared intake, methods, training and review routines.
+- **Prove and sustain value:** distinguish cash savings, capacity, customer outcomes and projected benefits.
 
-## Background
+## Tools and methods
 
-Experience across banking, insurance, consulting, and the U.S. Air Force in AI/ML risk modeling, product strategy, workflow automation, and process improvement.
+Lean Six Sigma Master Black Belt; BPMN and iGrafx; root-cause analysis; Power BI control-analysis reporting; Tableau operational metrics; Excel analysis; ServiceNow / App Engine workflow delivery; UiPath product strategy and RPA enablement; Jira automation; Copilot prototyping; ADKAR change planning.
 
-## Target Roles
+## Leadership focus
 
-- AI Product Manager
-- Product Owner
-- Process Engineer
+Director of Business Transformation • Enterprise Reengineering • Reengineering CoE Leadership • Operational Excellence • AI-enabled Transformation
 
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/christopher-d-cole/
-- Location: San Antonio, Texas
+Portfolio cases summarize my experience. Templates, diagrams and synthetic examples are labeled separately and do not represent employer system exports or company endorsements.
