@@ -26,6 +26,10 @@ These figures describe separate engagements. [Case details and measurement bound
 3. **[Workflow Redesign & ServiceNow Enablement](https://github.com/ddjfam/servicenow-workflow-automation)** — process-to-requirements translation, low-code/RPA decisions, exception routing and controls by design.
 4. **[Enterprise Risk Transformation](https://github.com/ddjfam/ai-risk-product-case-study)** — control analytics, executive decisions, roadmap governance and risk-aware delivery.
 
+## AI governance implementation
+
+I built an employee AI idea-screening agent that turns governance-oriented intake guidance into structured information capture, clarification questions and reuse recommendations for human review. **[Read the anonymized case study](https://github.com/ddjfam/agentic-ai-automation-playbook/blob/main/ai-governance-idea-screening.md)**, including a fictional example and clear decision boundaries.
+
 ## How I lead
 
 - **Size the problem:** connect volume, rework, delays and customer pain to a defensible baseline.
