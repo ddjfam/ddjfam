@@ -30,6 +30,14 @@ These figures describe separate engagements. [Case details and measurement bound
 
 I built an employee AI idea-screening agent that turns governance-oriented intake guidance into structured information capture, clarification questions and reuse recommendations for human review. **[Read the anonymized case study](https://github.com/ddjfam/agentic-ai-automation-playbook/blob/main/ai-governance-idea-screening.md)**, including a fictional example and clear decision boundaries.
 
+## AI education, mentoring & advisory service
+
+**Advisory Board Member, OLLU Strategic AI Program (March 2026–present).** I provide industry perspective on AI strategy, governance and enterprise implementation, with advisory input on program relevance and curriculum.
+
+In Corporate Risk, I serve as a go-to AI resource and mentor, have trained **40+ colleagues in prompt design**, and created a **15-template playbook**. My teaching foundation includes Air Force curriculum development and a consulting mentoring program of **12 sessions for 11 consultants**.
+
+**[Explore my AI education and advisory experience](https://github.com/ddjfam/agentic-ai-automation-playbook/blob/main/ai-education-and-advisory.md)** — practical coaching, curriculum development and an illustrative employee workshop.
+
 ## How I lead
 
 - **Size the problem:** connect volume, rework, delays and customer pain to a defensible baseline.
